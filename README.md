@@ -105,5 +105,15 @@ The public-key (b, a) can then be used for encryption, and the secret-key sk for
 
 -[] ()
 
-### 
+### How to perform Operation on encrypted data and RLWH concept
+
+`Yet to be learn`
+
+### How to get back the original plain text data from encrypted result
+
+`Yet to be learn`
+
+### Concept of noise and bootstrapping to overcome noise
+
+`Yet to be learn`
 
