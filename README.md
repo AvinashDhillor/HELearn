@@ -30,6 +30,7 @@ Answer : Encryption works on the problem that is still unsolvable.
 **Basic concept**
 - [Learning with errors](https://www.youtube.com/watch?v=sXvoX9uDr8Q&t=1s&ab_channel=BillBuchananOBE)
 - [Ring Learning with errors](https://www.youtube.com/watch?v=hN5TQiz2gWs&t=630s&ab_channel=BillBuchananOBE) - Concept of polynomial is added in LWE (means polynomial with same degree are calculated)
+  - [Another video for RLWH for better understanding](https://www.youtube.com/watch?v=QZBkhmqyBTA&ab_channel=BillBuchananOBE)
   - [Articles for above videos](https://medium.com/asecuritysite-when-bob-met-alice/learning-with-errors-and-ring-learning-with-errors-23516a502406)
 
 ## Ring-Learning with errors(Problem behind homomorphic encryption)
@@ -100,7 +101,7 @@ def keygen(size, modulus, poly_mod):
 The public-key (b, a) can then be used for encryption, and the secret-key sk for decryption.
 
 
-### How to Encrypt the data using public key and LWE concept 
+### How to Encrypt the data using public key and RLWE concept 
 
 -[] ()
 
